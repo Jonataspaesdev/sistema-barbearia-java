@@ -22,8 +22,8 @@ public class Barbeiro {
 		System.out.println("= Informações do barbeiro =");
 		System.out.println("===========================");
 		System.out.println("Nome: " + nome);
-		System.out.println("email: " + email);
-		System.out.println("celular: " + celular);
+		System.out.println("Email: " + email);
+		System.out.println("Celular: " + celular);
 		System.out.println("===========================");
 	}
 	
